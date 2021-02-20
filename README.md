@@ -1,7 +1,5 @@
-```
+<div align="center">
+  
+> “Programs are meant to be read by humans and only incidentally for computers to execute.” 
 
-   █▀█ ▀▄▀ █▀█ █▀█ █▀█ ▄█ █▀ ▀██ ▄█ ▄▀▄  
-   █▄█ █ █ █▄█ █▄█ █▄█  █ █▀ ▄▄█  █ █▀█  
-   11110000:10011111:10001100:10011010  
-   
-```
+</div>
