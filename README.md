@@ -1,5 +1,16 @@
-<div align="center">
-  
-> “Programs are meant to be read by humans and only incidentally for computers to execute.” 
-
-</div>
+               .n.                     |
+              /___\          _.---.  \ _ /
+              [|||]         (_._ ) )--;_) =-
+             [_____]          '---'.__,' \
+              }-=-{                    |
+              |-" |
+              |.-"|                p
+       ~^=~^~-|_.-|~^-~^~ ~^~ -^~^~|\ ~^-~^~-
+       ^   .=.| _.|__  ^       ~  /| \
+        ~ /:. \" _|_/\    ~      /_|__\  ^
+       .-/::.  |   |""|-._    ^   ~~~~
+         `===-'-----'""`  '-.              ~
+      jgs               __.-'      ^
+      
+      “Sharing is good, and with digital technology, sharing is easy.” 
+                                                      Richard Stallman
