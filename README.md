@@ -1,3 +1,4 @@
+<pre>
                .n.                     |
               /___\          _.---.  \ _ /
               [|||]         (_._ ) )--;_) =-
@@ -10,7 +11,8 @@
         ~ /:. \" _|_/\    ~      /_|__\  ^
        .-/::.  |   |""|-._    ^   ~~~~                    Hi there! 👋
          `===-'-----'""`  '-.              ~     
-      jgs               __.-'      ^       Check my page: git.io/tsuki
+      jgs               __.-'      ^            <a href="https://stanislav.codes">Website</a> • <a href="http:/git.io/tsuki">Blog</a> • <a href="mailto:monesonn@tuta.io">Email</a>
       
       “Sharing is good, and with digital technology, sharing is easy.” 
                                                       Richard Stallman
+</pre>
